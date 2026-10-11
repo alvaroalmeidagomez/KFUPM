@@ -4,11 +4,6 @@
 % IRC for Industrial Nuclear Energy
 % =========================================================================
 % =========================================================================
-% Developed at King Fahd University of Petroleum and Minerals (KFUPM)
-% Dhahran, Saudi Arabia
-% IRC for Industrial Nuclear Energy
-% =========================================================================
-
 % RUN_DISK_ELASTICITY_EXPERIMENT Numerical experiment for the vertex-based 
 % discretization of stationary linear elasticity on the unit disk.
 %
